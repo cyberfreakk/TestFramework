@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = "https://github.com/cyberfreakk/TestFramework"
   spec.license      = "MIT"
   spec.author             = { "Arunesh Gupta" => "arunesh.gupta@globallogic.com" }
-  spec.platform     = :ios, "16.4"
+  spec.platform     = :ios, "11.0"
   spec.source       = { :git => "https://github.com/cyberfreakk/TestFramework.git", :tag => "1.0.0" }
   spec.source_files  = "TestFramework/**/*"
 
